@@ -1,8 +1,8 @@
-# App "Clone YouTube"
+# App Preço Bitcoin
 
 ## Descrição
 
-Um aplicativo desenvolvido durante o curso de Desenvolvimento Flutter Mobile, com o objetivo de entender e aplicar conceitos fundamentais na criação de um aplicativo similar ao YouTube.
+Um aplicativo desenvolvido durante o curso de Desenvolvimento Flutter Mobile, com o objetivo de entender e aplicar conceitos fundamentais na criação de um aplicativo que realiza requisições a uma api externa.
 
 ## Curso
 
@@ -22,11 +22,8 @@ Um aplicativo desenvolvido durante o curso de Desenvolvimento Flutter Mobile, co
 
 ## Funcionalidades
 
-- Listagem dos videos
-- Tela de "Em Alta"
-- Tela de "Inscrições"
-- Tela de "Biblioteca"
-- Barra de pesquisa
+- Exibir o valor do bitcoin
+- Consultar na API e exibir o valor atualizado
 
 ## Instalação
 
